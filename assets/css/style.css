@@ -1,0 +1,39 @@
+
+img{
+    width: 500px;
+}
+#body_1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#cuadro_sticker{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+#conteo_sticker{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+#body_3{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.ingreso_numeros{
+    display: flex;
+    padding: 10px;
+    gap: 50px;
+}
+.cuadro{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 100px;
+    gap: 50px;
+}
